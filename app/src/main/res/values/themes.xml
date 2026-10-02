@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Teste" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Imposto_de_renda" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
